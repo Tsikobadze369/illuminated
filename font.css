@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Gemunu Libre';
+    src: url('./font/GemunuLibre-ExtraBold.eot');
+    src: url('./font/GemunuLibre-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('./font/GemunuLibre-ExtraBold.woff2') format('woff2'),
+        url('./font/GemunuLibre-ExtraBold.woff') format('woff'),
+        url('./font/GemunuLibre-ExtraBold.ttf') format('truetype'),
+        url('./font/GemunuLibre-ExtraBold.svg#GemunuLibre-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
